@@ -82,10 +82,3 @@ A Utility 2.0 company:
 - Click on the URL that Gradio creates
 - Have fun 
 
-## How to reach me
-
-https://www.linkedin.com/in/abhishek-bhamidipati/
-
-https://abhishekcmu.wixsite.com/home
-
-https://github.com/abhamidi-1234
